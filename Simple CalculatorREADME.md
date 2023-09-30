@@ -1,0 +1,28 @@
+# SimpleCal
+This is my first html calculator
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>InshutiTube</title>
+    </head>
+    <body style="background-color: #b0e0e6;">
+    <p style="text-align: center;"><img src="/Pictures/Logo.JPG" alt="This is Logo" width="650" height="250"></p>
+    <h2><a style="color: #ff4500; background-color: darkblue;" href="audiotube.html" target="_blank"><i>Music</i></a>
+    <br>
+    <br>
+<a style="color: orangered; background-color: darkblue;" href="videotube.html" target="_blank">Video
+</a>
+    </h2>
+    <hr>
+    <br>
+    <h2 style="color: yellowgreen; text-align: center; background-color: orangered; font-family: Arial, Helvetica, sans-serif;">Follow My Socials:</h2>
+    <p style="text-align: center;"><a href="https://www.instagram.com/" target="_blank"><img src="/Pictures/Insta.jpg" alt="This Instagram" width="35" height="35"></a>
+    <a href="https://twitter.com/home" target="_blank"><img src="/Pictures/Twitter.png" alt="This twitter" width="28" height="28"></a>
+    <a href="https://www.youtube.com/" target="_blank"><img src="/Pictures/You.png" alt="This youtube" width="35" height="35"></a>
+    </p>
+    <br>
+    <p style="text-align: center;">
+        &copy;2023 InshutiTube
+    </p>
+</body>
+    </html>
