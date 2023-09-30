@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Playlist</title>
+</head>
+<body style="background-color: powderblue;">
+    <h1 style="color:olive; text-align: center;">Summer Playlist</h1>
+    <hr>
+    <p style="color: darkred; text-align: center;">1. Bushali_-_KURURA_ft_Juno_Kizigenza<br><br>
+<audio controls loop src="/audio/Bushali_-_KURURA_ft_Juno_Kizigenza_(Official_Video)Selector_Ne-Yb.mp3">
+</audio>
+</p>
+<p style="color: darkred; text-align: center;">2. Adekunle Gold - Okay<br><br>
+<audio controls loop src="/audio/Adekunle Gold - Okay (128 kbps).mp3">
+</audio>
+</p>
+<p style="color: darkred; text-align: center;">3. Cassper Nyovest - Doc Shebeleza<br><br>
+<audio controls loop src="/audio/Cassper Nyovest - Doc Shebeleza (Official Music Video) (128 kbps).mp3">
+</audio>
+</p>
+<p style="color: darkred; text-align: center;">4. Drake - God's Plan<br><br>
+<audio controls loop src="/audio/Drake - God's Plan (128 kbps).mp3">
+</audio>
+</p>
+<p style="color: darkred; text-align: center;">5. DJ Khaled - EVERY CHANCE I GET ft. Lil Baby, Lil Durk<br><br>
+<audio controls loop src="/audio/DJ Khaled - EVERY CHANCE I GET (Official Music Video) ft. Lil Baby, Lil Durk (128 kbps).mp3">
+</audio>
+</p>
+    </body>
+</html>
